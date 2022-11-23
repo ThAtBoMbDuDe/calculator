@@ -83,7 +83,7 @@ h1 {
 #equals {
   border: 3px solid darkblue;
   border-bottom-right-radius: 13px;
-  width: 352px;
+  width: 351px;
   grid-column: span 2;
 }
 
